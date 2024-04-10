@@ -1,5 +1,5 @@
 ﻿#region Ввод данных
-string[] initialArray = new string[] { "Привет", "мир", "!", "12345", "abc", "Разное","ку" };
+string[] initialArray = new string[] { "Hello", "2", "world", ":-)" };
 #endregion
 
 #region Подсчет количества строк, удовлетворяющих условию
